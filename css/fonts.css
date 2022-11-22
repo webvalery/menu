@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Arial";
+  src: url('../fonts/arial-400.woff2'),
+  url('../fonts/arial-400.woff'),
+  url('../fonts/arial-400.ttf');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Arial";
+  src: url('../fonts/arial-700.woff2'),
+  url('../fonts/arial-700.woff'),
+  url('../fonts/arial-700.ttf');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
